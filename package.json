@@ -1,0 +1,12 @@
+{
+  "name": "thai-lease-contract-template",
+  "version": "1.0.0",
+  "description": "สร้างสัญญาเช่าอาคาร (ภาษาไทย) เป็นไฟล์ Word จากข้อมูล JSON",
+  "main": "generate.js",
+  "scripts": {
+    "example": "node generate.js data.example.json output/สัญญาเช่าอาคาร_ตัวอย่าง.docx",
+    "blank": "node generate.js data.blank.json template/สัญญาเช่าอาคาร_แบบฟอร์มเปล่า.docx"
+  },
+  "dependencies": { "docx": "^9.0.0" },
+  "license": "MIT"
+}

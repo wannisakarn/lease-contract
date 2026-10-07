@@ -1,0 +1,9 @@
+node_modules/
+output/
+# ข้อมูลจริงของผู้เช่า/ผู้ให้เช่า — ห้ามอัปโหลด
+data.json
+data.*.private.json
+*.pdf
+*.jpg
+*.png
+~$*.docx

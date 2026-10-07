@@ -1,0 +1,66 @@
+{
+  "font": "TH Sarabun New",
+  "font_size": 16,
+  "contract_date": "",
+  "signed_at_line1": "",
+  "signed_at_line2": "",
+  "landlord": {
+    "name": "",
+    "address": "",
+    "id_no": ""
+  },
+  "tenant": {
+    "name": "",
+    "address": "",
+    "id_no": "",
+    "id_issued_at": "",
+    "id_issued_date": ""
+  },
+  "property": {
+    "address_no": "",
+    "address_detail": "",
+    "house_code": "",
+    "building_type": "",
+    "purpose": ""
+  },
+  "term": {
+    "text": "",
+    "start": "",
+    "end": "",
+    "renewal_notice": ""
+  },
+  "rent": {
+    "monthly": "",
+    "due_day": "",
+    "advance_months": "",
+    "advance_period": ""
+  },
+  "deposit": {
+    "months": "",
+    "amount": "",
+    "payment_ref": ""
+  },
+  "bank": {
+    "bank": "",
+    "branch": "",
+    "account_type": "",
+    "account_name": "",
+    "account_no": ""
+  },
+  "late_interest_pct": 15,
+  "overstay_penalty_per_day": "",
+  "notice_address_tenant": "",
+  "notice_address_landlord": "",
+  "witnesses": [
+    "",
+    ""
+  ],
+  "attachments": [
+    "สำเนาบัตรประจำตัวประชาชนของผู้ให้เช่า",
+    "สำเนาทะเบียนบ้านของอาคารที่เช่า",
+    "สำเนาหน้าสมุดบัญชีเงินฝากของผู้ให้เช่า",
+    "สำเนาบัตรประจำตัวประชาชนของผู้เช่า",
+    "สำเนาทะเบียนบ้านของผู้เช่า",
+    "หลักฐานการโอนเงินประกันและค่าเช่าล่วงหน้า"
+  ]
+}
